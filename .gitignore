@@ -1,0 +1,11 @@
+# Serverless Alipay Cashier Gateway .gitignore
+node_modules/
+.wrangler/
+.env
+*.env
+*.pem
+*.key
+*.secret
+*.log
+.DS_Store
+Thumbs.db
